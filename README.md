@@ -1,4 +1,4 @@
-# LSTM-Aurora-Borelasis-Prediction
+# LSTM-Aurora-Borealis-Prediction
 
 - https://en.wikipedia.org/wiki/K-index
 - https://kp.gfz.de/en/data
